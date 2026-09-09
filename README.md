@@ -60,17 +60,7 @@ The project provides analysis of:
 * Interactive Power BI/web dashboard
 * Location-specific agricultural recommendations
 
-## 📂 Project Structure
 
-```text
-seasonal-agriculture-performance-analysis/
-│
-├── dataset/
-├── notebook/
-├── visualizations/
-├── requirements.txt
-└── README.md
-```
 
 ## 🎓 Academic Project
 
